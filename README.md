@@ -3,15 +3,15 @@
 
 ---
 
-🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br> Python, C++<br> Git & GitHub, VS Code<br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br> Data Preprocessing & Feature Engineering<br> 🧠 Deep Learning (Learning & Practicing)<br><br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br> 🤖 LLMs & AI Agents<br><br> Hands-on exposure to LLMs during hackathons<br> Building AI workflows & agent-based solutions<br> Prompt engineering & experimentation<br> 🌐 **Web & Deployment (Basic)** <br><br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br>
+🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br> Python, C++<br> Git & GitHub, VS Code<br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br> Data Preprocessing & Feature Engineering<br><br> 🧠 Deep Learning (Learning & Practicing)<br><br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br><br> 🤖 LLMs & AI Agents<br><br> Hands-on exposure to LLMs during hackathons<br> Building AI workflows & agent-based solutions<br> Prompt engineering & experimentation<br><br> 🌐 **Web & Deployment (Basic)** <br><br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br><br>
 
 ---
 
- 📂**Featured Work**<br><br> 🔹 Machine Learning Projects<br> End-to-end ML projects involving data cleaning, model training, and evaluation<br> Focus on solving real-world problems using classical ML algorithms<br> 🔹 LLMs & Agent-Based Systems (Hackathons)<br> Worked on LLM-powered solutions and AI agentsduring hackathons<br> Experience with problem-solving under time constraints and team collaboration<br> 
+ 📂**Featured Work**<br><br> 🔹 Machine Learning Projects<br> End-to-end ML projects involving data cleaning, model training, and evaluation<br> Focus on solving real-world problems using classical ML algorithms<br><br> 🔹 LLMs & Agent-Based Systems (Hackathons)<br> Worked on LLM-powered solutions and AI agentsduring hackathons<br> Experience with problem-solving under time constraints and team collaboration<br> 
 
 ---
 
- 📊 **GitHub Focus**<br><br> 📌 AI/ML & Deep Learning projects<br> 📌 LLM and agent-based experiments<br><br
+ 📊 **GitHub Focus**<br><br> 📌 AI/ML & Deep Learning projects<br> 📌 LLM and agent-based experiments<br><br>
  
  ---
  
