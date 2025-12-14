@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Jay Kumar<br> <br> <br><br>I am an AI & Machine Learning enthusiast with hands-on experience in Machine Learning projects, and I am actively learning Deep Learning. I have worked with LLMs (Large Language Models) and AI agents during hackathons and collaborative projects, and I’m eager to dive deeper into this space.<br>I enjoy building real-world, data-driven solutions, experimenting with models, and continuously upgrading my skills in modern AI technologies<br> 🎓 **Background**: Computer Science / AIML Training<br> 🧠 **Interests**: Machine Learning, Deep Learning, LLMs, AI Agents, NLP<br> 🌱 **Currently learning**: Deep Learning, LLM-based systems, AI agent workflows<br> 🎯 **Goal**: Become a skilled AI/ML Engineer working on impactful problems<br>
+👋 Hi, I'm Jay Kumar<br> <br> <br><br>I am an AI & Machine Learning enthusiast with hands-on experience in Machine Learning projects, and I am actively learning Deep Learning. I have worked with LLMs (Large Language Models) and AI agents during hackathons and collaborative projects, and I’m eager to dive deeper into this space.<br><br>I enjoy building real-world, data-driven solutions, experimenting with models, and continuously upgrading my skills in modern AI technologies<br><br> 🎓 **Background**: Computer Science / AIML Training<br> 🧠 **Interests**: Machine Learning, Deep Learning, LLMs, AI Agents, NLP<br> 🌱 **Currently learning**: Deep Learning, LLM-based systems, AI agent workflows<br> 🎯 **Goal**: Become a skilled AI/ML Engineer working on impactful problems<br><br>
 
 ---
 
-🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br><br> Python, C++<br> Git & GitHub, VS Code<br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br> Data Preprocessing & Feature Engineering<br> 🧠 Deep Learning (Learning & Practicing)<br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br> 🤖 LLMs & AI Agents<br> Hands-on exposure to LLMs during hackathons<br> Building AI workflows & agent-based solutions<br> Prompt engineering & experimentation<br> 🌐 **Web & Deployment (Basic)** <br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br>
+🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br> Python, C++<br> Git & GitHub, VS Code<br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br> Data Preprocessing & Feature Engineering<br> 🧠 Deep Learning (Learning & Practicing)<br><br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br> 🤖 LLMs & AI Agents<br><br> Hands-on exposure to LLMs during hackathons<br> Building AI workflows & agent-based solutions<br> Prompt engineering & experimentation<br> 🌐 **Web & Deployment (Basic)** <br><br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br>
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
- 📊 **GitHub Focus**<br> 📌 AI/ML & Deep Learning projects<br> 📌 LLM and agent-based experiments<br><br><br>
+ 📊 **GitHub Focus**<br><br> 📌 AI/ML & Deep Learning projects<br> 📌 LLM and agent-based experiments<br><br
  
  ---
  
@@ -19,7 +19,7 @@
  
  ---
  
- ⭐ Always learning, experimenting, and building in AI.<br>
+ ⭐ Always learning, experimenting, and building in AI.<br><br>
 
 ---
 
