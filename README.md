@@ -1,5 +1,113 @@
 # 💫 About Me:
- 👋 Hi, I'm Jay Kumar<br> <br> <br><br>I am an AI & Machine Learning enthusiast with hands-on experience in Machine Learning projects, and I am actively learning Deep Learning. I have worked with LLMs (Large Language Models) and AI agents during hackathons and collaborative projects, and I’m eager to dive deeper into this space.<br><br>I enjoy building real-world, data-driven solutions, experimenting with models, and continuously upgrading my skills in modern AI technologies.<br><br> 🎓 **Background**: Computer Science / AIML Training<br>  🧠 **Interests**: Machine Learning, Deep Learning, LLMs, AI Agents, NLP<br> 🌱 **Currently learning**: Deep Learning, LLM-based systems, AI agent workflows<br> 🎯 **Goal**: Become a skilled AI/ML Engineer working on impactful problems<br><br>---<br><br>🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br> Python, C++<br> Git & GitHub, VS Code<br><br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br>* Data Preprocessing & Feature Engineering<br><br> 🧠 Deep Learning (Learning & Practicing)<br><br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br><br> 🤖 LLMs & AI Agents<br><br> Hands-on exposure to LLMs during hackathons<br>* Building AI workflows & agent-based solutions<br>* Prompt engineering & experimentation<br><br> 🌐 **Web & Deployment (Basic)** <br><br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br><br>---<br><br> 📂**Featured Work**<br><br> 🔹 Machine Learning Projects<br><br>* End-to-end ML projects involving data cleaning, model training, and evaluation<br> Focus on solving real-world problems using classical ML algorithms<br><br> 🔹 LLMs & Agent-Based Systems (Hackathons)<br><br>* Worked on LLM-powered solutions and AI agentsduring hackathons<br> Experience with problem-solving under time constraints and team collaboration<br><br> 🔹 Fraud Detection & Monitoring System (FDAM)<br><br> Hackathon project (Top-20 finish)<br>Designed intelligent fraud detection, alert, and monitoring workflows<br><br>---<br><br><br><br> 📊 **GitHub Focus**<br><br> 📌 AI/ML & Deep Learning projects<br> 📌 LLM and agent-based experiments<br><br><br>---<br><br> 🤝 **Let’s Connect**<br><br> 💼 GitHub: [@JK110](https://github.com/JK110)<br>* 🌍 **Location**: India<br><br>---<br><br>⭐ Always learning, experimenting, and building in AI.<br>
+👋 Hi, I'm Jay Kumar
+
+I am an AI & Machine Learning enthusiast with hands-on experience in Machine Learning projects and currently diving deeper into Deep Learning. I have worked with LLMs (Large Language Models) and AI agents during hackathons and collaborative projects, and I am keen to explore this domain further.
+
+I enjoy building real-world, data-driven solutions, experimenting with models, and continuously upgrading my skills in modern AI technologies.
+
+🎓 Background
+
+Computer Science / AIML Training
+
+🧠 Interests
+
+Machine Learning
+
+Deep Learning
+
+LLMs & AI Agents
+
+Natural Language Processing (NLP)
+
+🌱 Currently Learning
+
+Deep Learning
+
+LLM-based systems
+
+AI agent workflows
+
+🎯 Career Goal
+
+Become a skilled AI/ML Engineer working on impactful, real-world problems
+
+#🛠️ Tech Stack
+🧑‍💻 Programming & Tools
+
+Python, C++
+
+Git & GitHub, VS Code
+
+#📊 Machine Learning & Data Science
+
+NumPy, Pandas, Matplotlib
+
+Scikit-learn
+
+Statistics & Data Analysis
+
+Data Preprocessing & Feature Engineering
+
+#🧠 Deep Learning (Learning & Practicing)
+
+Neural Network fundamentals
+
+CNNs (conceptual & practical understanding)
+
+Model training & evaluation
+
+#🤖 LLMs & AI Agents
+
+Hands-on experience with LLMs during hackathons
+
+Building AI workflows & agent-based solutions
+
+Prompt engineering & experimentation
+
+🌐 Web & Deployment (Basic)
+
+HTML, CSS, JavaScript (Basic)
+
+Flask
+
+Django (learning)
+
+API concepts
+
+#📂 Featured Work
+🔹 Machine Learning Projects
+
+End-to-end ML projects involving data cleaning, model training, and evaluation
+
+Focus on solving real-world problems using classical ML algorithms
+
+🔹 LLMs & Agent-Based Systems (Hackathons)
+
+Worked on LLM-powered solutions and AI agents during hackathons
+
+Experience with rapid problem-solving, teamwork, and time-bound development
+
+🔹 Fraud Detection & Monitoring System (FDAM)
+
+Hackathon project (Top-20 finish)
+
+Designed intelligent fraud detection, alert, and monitoring workflows
+
+#📊 GitHub Focus
+
+📌 AI/ML & Deep Learning projects
+
+📌 LLM and agent-based experiments
+
+📌 Consistent learning and experimentation
+
+🤝 Let’s Connect
+
+💼 GitHub: @JK110
+
+🌍 Location: India
+
+⭐ Always learning, experimenting, and building in AI.
 
 
 ## 🌐 Socials:
