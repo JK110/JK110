@@ -3,7 +3,7 @@
 
 ---
 
-🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br> Python, C++<br> Git & GitHub, VS Code<br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br> Data Preprocessing & Feature Engineering<br><br> 🧠 Deep Learning (Learning & Practicing)<br><br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br><br> 🤖 LLMs & AI Agents<br><br> Hands-on exposure to LLMs during hackathons<br> Building AI workflows & agent-based solutions<br> Prompt engineering & experimentation<br><br> 🌐 **Web & Deployment (Basic)** <br><br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br><br>
+🛠️ **Tech Stack**<br><br> 🧑‍💻 Programming & Tools<br><br> Python, C++<br> Git & GitHub, VS Code<br><br>📊 Machine Learning & Data Science<br><br>NumPy, Pandas, Matplotlib<br> Scikit-learn<br> Statistics & Data Analysis<br> Data Preprocessing & Feature Engineering<br><br> 🧠 Deep Learning (Learning & Practicing)<br><br> Neural Networks fundamentals<br> CNNs (conceptual & practical understanding)<br> Model training & evaluation<br><br> 🤖 LLMs & AI Agents<br><br> Hands-on exposure to LLMs during hackathons<br> Building AI workflows & agent-based solutions<br> Prompt engineering & experimentation<br><br> 🌐 **Web & Deployment (Basic)** <br><br> HTML, CSS, JavaScript (Basic)<br> Flask<br> Django (learning)<br> API concepts<br><br>
 
 ---
 
